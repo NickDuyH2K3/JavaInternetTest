@@ -1,0 +1,17 @@
+/* styles.css */
+.main-container {
+    -fx-background-color: #f4f4f4;
+}
+
+.button-style {
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+}
+
+.result-label {
+    -fx-font-size: 14px;
+}
+
+.progress-bar {
+    -fx-accent: #2ecc71;
+}
